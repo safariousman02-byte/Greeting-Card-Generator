@@ -15,3 +15,9 @@
 ### result after styling
 
  ![completing the css](/imgs/img02.png)
+
+## COMPLETING THE WHOLE CODE
+
+### RESULT 
+
+ ![alt](/imgs/last.png)
